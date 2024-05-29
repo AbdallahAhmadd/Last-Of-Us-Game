@@ -3,6 +3,9 @@
 
 Welcome to "The Last of Us: Legacy," a console-based game developed as part of the Programming II course at the German University in Cairo. This game incorporates advanced object-oriented programming concepts and game engine logic to provide an engaging gameplay experience.
 
+## Videos
+
+The below videos shows the gameplay of both winning and losing scenarios
 
 [![Gameplay Video](https://img.youtube.com/vi/eQKofoA7wb4/0.jpg)](https://youtu.be/eQKofoA7wb4)
 [![Gameplay Video](https://img.youtube.com/vi/nwhym0cbLqM/0.jpg)](https://youtu.be/nwhym0cbLqM)
@@ -39,4 +42,8 @@ Welcome to "The Last of Us: Legacy," a console-based game developed as part of t
 - **Win Condition**: The game is won when all zombies are cured by vaccines.
 - **Game Over**: When All heroes have been overwhelmed and defeated by zombies.
 
+
+## Contributers
+
+<li><a href="https://github.com/Farahh23">Farah Faisal</a> </li>
 
